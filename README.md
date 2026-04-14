@@ -4,7 +4,7 @@
 - 🌱 Learning **Full Stack Development** with a strong focus on **Frontend technologies** and **Java-based Data Structures & Algorithms (DSA)**.  
 - 🛠  Gaining hands-on experience with modern web frameworks, tools like **React**, **Node.js**, and backend development using **Java**.  
 - 💪 Dedicated to continuous learning, building projects, and improving problem-solving skills through consistent practice.
-
+  
 ## 💻 Skills & Technologies
 - **Languages:**  C, Java, Python  
 - **Frontend:** HTML, CSS, JavaScript, React  
